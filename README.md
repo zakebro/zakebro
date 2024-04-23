@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikhail
-- 👀 I’m interested in analytics.
-- 🌱 I’m currently learning python libraries for data science, git, statistics and also looking into openCV library for hobby projects.
+- 👀 I’m interested in analytics
+- 🌱 I’m currently learning python libraries for data science, git and statistics
 
 
 <!---
